@@ -331,6 +331,7 @@ textarea {
   font: 1em sans-serif;
 
   /* Uniform text field size */
+  height: 400px;
   width: 300px;
   box-sizing: border-box;
 
